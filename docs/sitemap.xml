@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url>
+	<loc>https://ridevelo.com</loc>
+	<lastmod>2020-11-29</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>1.0</priority>
+	<image:image>
+	<image:loc>https://ridevelo.com/img/logo.png</image:loc>
+	<image:title>logo</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://ridevelo.com/img/app-store.svg</image:loc>
+	<image:title>app store</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://ridevelo.com/img/hud-data.png</image:loc>
+	<image:title>iphone screen-11</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://ridevelo.com/img/hud-watch.png</image:loc>
+	<image:title>watch screen</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://ridevelo.com/img/commute-route.png</image:loc>
+	<image:title>iphone screen-11</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://ridevelo.com/img/loop-route.png</image:loc>
+	<image:title>iphone screen-11</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://ridevelo.com/img/profile.png</image:loc>
+	<image:title>profile</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://ridevelo.com/img/garmin.svg</image:loc>
+	<image:title>garmin</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://ridevelo.com/img/wahoo.svg</image:loc>
+	<image:title>wahoo</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://ridevelo.com/img/polar.svg</image:loc>
+	<image:title>polar</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://ridevelo.com/img/cateye.svg</image:loc>
+	<image:title>cateye</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://ridevelo.com/img/quarq.svg</image:loc>
+	<image:title>quarq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://ridevelo.com/img/shimano.svg</image:loc>
+	<image:title>shimano</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://ridevelo.com/img/sram.svg</image:loc>
+	<image:title>sram</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://ridevelo.com/img/lezyne.svg</image:loc>
+	<image:title>lezyne</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://ridevelo.com/img/4iiii.svg</image:loc>
+	<image:title>4iiii</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://ridevelo.com/img/bontrager.svg</image:loc>
+	<image:title>bontrager</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://ridevelo.com/img/quadlock.svg</image:loc>
+	<image:title>quadlock</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://ridevelo.com/img/favero.svg</image:loc>
+	<image:title>favero</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://ridevelo.com/img/STEM_500x.jpg.webp</image:loc>
+	<image:title>STEM_500x</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://ridevelo.com/img/OFMP_500x.jpg.webp</image:loc>
+	<image:title>OFMP_500x</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://ridevelo.com/img/OFM_500x.jpg.webp</image:loc>
+	<image:title>OFM_500x</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://ridevelo.com/img/velo-appclip-qrcode.svg</image:loc>
+	<image:title>velo appclip-qrcode</image:title>
+	</image:image>
+	<video:video>
+	<video:content_loc>https://ridevelo.com/vid/HeroVideo.mp4</video:content_loc>
+	</video:video>
+	<image:image>
+	<image:loc>https://ridevelo.com/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://ridevelo.com/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://ridevelo.com/privacy-policy.html</loc>
+	<lastmod>2020-11-29</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://ridevelo.com/img/logo.png</image:loc>
+	<image:title>logo</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://ridevelo.com/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://ridevelo.com/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://ridevelo.com/terms-of-service.html</loc>
+	<lastmod>2020-11-29</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://ridevelo.com/img/logo.png</image:loc>
+	<image:title>logo</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://ridevelo.com/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://ridevelo.com/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+</urlset>
