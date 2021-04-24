@@ -1,0 +1,137 @@
+body {
+    background-color: white;
+    color: white;
+    font-size: 17px;
+    line-height: 1.47059;
+    font-weight: 400;
+    letter-spacing: -.022em;
+    font-family: "Open Sans", "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    display: flex;
+    min-height: 100vh;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+header {
+    grid-column: span 2;
+    text-align: center;
+    font-size: 1.4em;
+    position: fixed;
+    top: 16px;
+}
+
+footer {
+    grid-column: span 2;
+    text-align: center;
+    font-size: 1.4em;
+    position: fixed;
+    bottom: 16px;
+    width: 100%;
+}
+
+a {
+    color: #FFFFFF;
+    font-size: 18px;
+    line-height: 1.42115;
+    font-weight: 600;
+    letter-spacing: .012em;
+}
+
+small {
+  font-size: 0.7em;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+    
+.icon {
+    font-family: ".SF Symbols Fallback";
+    opacity: 0.7;
+}
+
+h1 {
+    font-size: 80px;
+    line-height: 1.05;
+    font-weight: 700;
+    letter-spacing: -.015em;
+    
+}
+
+h2 {
+    font-size: 56px;
+    line-height: 1.07143;
+    font-weight: 700;
+    letter-spacing: -.005em;
+}
+
+p {
+    font-size: 19px;
+    line-height: 1.42115;
+    font-weight: 400;
+    letter-spacing: .012em;
+}
+
+img {
+  filter: drop-shadow(0 0 25px black);
+}
+
+.shadow {
+      /*text-shadow: 0 0 8px black, 0 0 25px black;*/
+  text-shadow: 0 0 2px black, 0 0 4px black, 0 0 8px black, 0 0 25px black;
+}
+
+.iframe-wrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  pointer-events: none;
+  overflow: hidden;
+}
+
+.iframe-wrapper iframe {
+  width: 100vw;
+  height: 56.25vw;
+  min-height: 100vh;
+  min-width: 177.77vh;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.primary {
+  font-size: 18px;
+  padding: 8px 24px;
+  background-color: #FFFFFF;
+  color: #000000;
+  border-radius: 64px;
+}
+
+button {
+    background-color: transparent;
+    color: white;
+    border: none;
+}
+
+ul{
+  padding: 0;
+  list-style:none;
+}
+
+ul > li {
+    display: inline-block;
+    zoom: 1;
+    *display: inline;
+}
